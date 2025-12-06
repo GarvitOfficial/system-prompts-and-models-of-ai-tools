@@ -1,5 +1,18 @@
 # **System Prompts and Models of AI Tools**  
 ---
+
+## 🚀 System Prompt Dashboard
+
+We have added a **System Prompt Dashboard** to visualize and browse all the prompts in this repository!
+
+[**Click here to view the Dashboard**](https://garvitofficial.github.io/system-prompts-and-models-of-ai-tools/)
+
+### How to Update
+If you add new prompts to the repository, you can update the live dashboard by running:
+```bash
+./deploy.sh
+```
+This script will automatically detect new files, rebuild the website, and push the changes to GitHub.
 <p align="center">
   <sub>Special thanks to</sub>  
 </p> 
